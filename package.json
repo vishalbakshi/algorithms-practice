@@ -1,0 +1,28 @@
+{
+  "name": "algorithms-practice",
+  "version": "1.0.0",
+  "description": "A repository where I store code for practice algorithms and data structure problems. These problems are from a variety of sources and I will include some folder structure to show that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalbakshi/algorithms-practice.git"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "author": "Vishal Bakshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishalbakshi/algorithms-practice/issues"
+  },
+  "homepage": "https://github.com/vishalbakshi/algorithms-practice#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
